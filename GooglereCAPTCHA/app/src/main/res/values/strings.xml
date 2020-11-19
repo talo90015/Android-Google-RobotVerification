@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google reCAPTCHA</string>
+    <string name="robot">機器人驗證</string>
+    <string name="text">尚未驗證</string>
+</resources>
